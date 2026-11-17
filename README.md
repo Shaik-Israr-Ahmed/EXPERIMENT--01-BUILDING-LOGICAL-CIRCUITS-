@@ -138,6 +138,8 @@ F8 = ((A XOR B) & (C XNOR D))
 | 6 | 64 |
 
 1. F1 OUTPUT
+
+
 | Inputs | Expected Output | Observed Output | Status |
 |---|---|---|---|
 | 0000 | 0 | 0 | PASS |
