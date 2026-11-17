@@ -137,14 +137,25 @@ F8 = ((A XOR B) & (C XNOR D))
 | 5 | 32 |
 | 6 | 64 |
 
-Use this format to record the results:
-
-| Inputs | Expected output | Observed output | Status |
+1. F1 OUTPUT
+| Inputs | Expected Output | Observed Output | Status |
 |---|---|---|---|
-| 0000 |  |  |  |
-| 0001 |  |  |  |
-| 0010 |  |  |  |
-| ... |  |  |  |
+| 0000 | 0 | 0 | PASS |
+| 0001 | 0 | 0 | PASS |
+| 0010 | 0 | 0 | PASS |
+| 0011 | 1 | 1 | PASS |
+| 0100 | 0 | 0 | PASS |
+| 0101 | 0 | 0 | PASS |
+| 0110 | 1 | 1 | PASS |
+| 0111 | 1 | 1 | PASS |
+| 1000 | 0 | 0 | PASS |
+| 1001 | 1 | 1 | PASS |
+| 1010 | 0 | 0 | PASS |
+| 1011 | 1 | 1 | PASS |
+| 1100 | 1 | 1 | PASS |
+| 1101 | 1 | 1 | PASS |
+| 1110 | 1 | 1 | PASS |
+| 1111 | 0 | 0 | PASS |
 
 Extend the table to include every input combination required by each equation.
 
