@@ -448,14 +448,31 @@ For each circuit, record:
 - Functional equivalence before and after simplification
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
+
+
 <img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/c31bf486-efef-4d5a-89cc-07a9db3303ba" />
+
+
 <img width="1600" height="812" alt="WhatsApp Image 2026-11-17 at 5 20 19 PM" src="https://github.com/user-attachments/assets/947672a7-2578-42ad-b39d-e2bfdd7f7f18" />
+
+
 <img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/047ae5a6-4f0d-4141-a2d8-b6fe405f4f6f" />
+
+
 <img width="1600" height="803" alt="image" src="https://github.com/user-attachments/assets/032ff772-c399-4c0b-b272-3817d127754f" />
+
+
 <img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/4c087b59-cd4c-4466-bd84-3fff42ad37a1" />
+
+
 <img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/db9e223a-17fa-46f9-840b-9831d6a02abd" />
+
+
 <img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/652881e0-cc4b-44e2-ac2c-e9bd3250157f" />
+
+
 <img width="1600" height="790" alt="image" src="https://github.com/user-attachments/assets/aa04e9a4-4e1e-4467-95d2-1867e2759abd" />
+
  
 ## 8. Result
 
